@@ -5,7 +5,8 @@
     android:layout_height="wrap_content"
     android:orientation="horizontal"
     android:padding="12dp"
-    android:gravity="center_vertical">
+    android:gravity="center_vertical"
+    android:background="@drawable/task_item_background">
 
     <CheckBox
         android:id="@+id/isDoneCheckbox"
